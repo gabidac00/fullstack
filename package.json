@@ -1,4 +1,6 @@
 {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
   "name": "hello-next",
   "version": "1.0.0",
   "description": "",
@@ -24,6 +26,7 @@
     "react-markdown": "8.0.0"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^13.1.1",
     "@types/node": "17.0.14",
     "@types/react": "17.0.38",
     "prisma": "^4.8.1",
