@@ -5,7 +5,6 @@
   },
 
   "extends": [
-    "next",
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended"
@@ -22,5 +21,3 @@
     "@next/next/no-page-custom-font": "off"
   }
 }
-
-//
